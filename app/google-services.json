@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153686501346",
+    "project_id": "samamafyp",
+    "storage_bucket": "samamafyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153686501346:android:b90575f318515288b73bbb",
+        "android_client_info": {
+          "package_name": "com.app.samamafyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153686501346-6226g1dsd6h86f33pe8bhc85jpmfve6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5hmWDC0zW4QvTHGVgiayRV_fimm3ov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153686501346-6226g1dsd6h86f33pe8bhc85jpmfve6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
